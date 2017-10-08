@@ -11,27 +11,27 @@ For Task 5 select either attempted/not attempted.
 --------
 Task 1
 --------
-Create Database:attempted
-Create Tables:attempted
+Create Database:works
+Create Tables:works
 
 --------
 Task 2
 --------
-Q1. attempted
-Q2. attempted
-Q3. attempted
-Q4. attempted
-Q5. attempted
+Q1. works
+Q2. works
+Q3. works
+Q4. works
+Q5. works
 
 --------
 Task 3
 --------
-Insert:attempted
-Delete:attempted
-Update:attempted
+Insert:works
+Delete:works
+Update:works
 
 --------
 Task 4
 --------
-Create Index:attempted
-Create View:attempted
+Create Index:works
+Create View:works
